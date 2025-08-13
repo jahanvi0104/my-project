@@ -1,0 +1,174 @@
+body{
+
+}
+.toparea{
+    padding:0px;
+    background:black;
+    text-align:center;
+    color:white;
+}
+.toparea h1{
+    font-size:15px;
+    margin-top:5px;
+}
+.toparea h5{
+    font-size:15px;
+    margin-top:5px;
+}
+.toparea h5:hover{
+    cursor: pointer;
+    text-decoration:underline;
+    text-decoration-thickness:2px;
+}
+}
+.menuarea{
+    padding:20px 0;
+    background:white;
+}
+.boxlogo{
+    padding:10px 0;
+  
+}
+.menuarea h2{
+    font-size:24px;
+    margin-left:340px;
+    margin-top:18px;
+    margin-right:0px;
+}
+.menuarea h2:hover{
+    cursor: pointer;
+    text-decoration:underline;
+}
+.box1{
+    
+   padding:10px 0;
+    
+}
+
+.box2{
+   padding:10px 0;
+}
+.box3{
+   padding:10px 0;
+}
+.barea{
+    padding:3px 0;
+    background-color:white;
+}
+.carea{
+    padding:40px 0;
+    background:white;
+}
+.box4{
+    padding:130px 0;
+ 
+    background-image:url('k.jpg');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+}
+.box5{
+    padding:130px 0;
+
+    background-image:url('e.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+
+}
+.box6{
+    padding:130px 0;
+ 
+    background-image:url('t.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+
+}
+.darea{
+    padding:10px 0;
+    background:white;
+}
+.box7{
+    padding:230px 0;
+    background-image:url('mn.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+}
+.earea{
+    padding:30px 0;
+    background:white;
+}
+.box8{
+    padding:300px 0;
+    background-image:url('bc.jpg');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+
+}
+.box9{
+    padding:150px 0;
+    background-image:url('ed.jpg');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+}
+.box10{
+    padding:150px 0;
+    background-image:url('ef.jpg');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;
+}
+.farea{
+    padding:20px 0;
+    background:white; 
+}
+.box11{
+    padding:200px 0;
+    background-image:url('bj.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;    
+
+}
+.garea{
+    padding:80px 0;
+    background:white;
+}
+.box12{
+    padding:10px 0;
+    background:#F1F5F9;
+}
+.abox12{
+    padding:150px 0;
+    background-image:url('bi.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;    
+}
+.bbox12{
+    text-align:center;
+    font-family:comic sans ms;
+}
+.cbox12{
+    text-align:center;
+    font-family:Arial;
+}
+.box13{
+    padding:10px 0;
+    background:#F1F5F9;
+}
+.abox13{
+    padding:150px 0;
+    background-image:url('ek.webp');
+				background-size:cover;
+				background-position:center;
+				background-repeat:no-repeat;    
+}
+.bbox13{
+    text-align:center;
+    font-family:comic sans ms;
+}
